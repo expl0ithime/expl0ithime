@@ -28,7 +28,7 @@ i'm self-taught, quick to learn, and always looking for ways to make my code cut
 ## 🧸 pinned projects  
 my projects are in their “glow up” phase 🦋
 
-- [`ci-cd-pipeline`](https://github.com/expl0ithime/ci-cd-pipeline) — automated deployment with GitHub Actions  
+- [`ci-cd-pipeline`](https://github.com/expl0ithime/ci-cd-magic) — automated deployment with GitHub Actions  
 - [`website-monitor`](https://github.com/expl0ithime/website-monitor) — python script that checks if a site is still alive  
 - [`flask-docker-app`](https://github.com/expl0ithime/flask-docker-app) — containerized app with major slay potential  
 - [`policy-pinkprint`](https://github.com/expl0ithime/policy-pinkprint) — pretend security policy, totally bossy  
