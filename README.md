@@ -36,9 +36,10 @@ my projects are in their “glow up” phase 🦋
 ---
 
 ## ✿ fun facts  
-- i type fast, talk fast, and think faster 💨  
-- i do tech by day, tarot by night ✦  
-- i’m not a hacker yet... but i’m definitely a threat 😌  
+### ✨ Tech baddie with business brains ✦  
+### ♡ Food connoisseur by day, chaotic engineer by night ♡  
+### ☁️ You break? I break more before fixing it  
+### 🐾 Cat mom • pink VS Code enthusiast • matrix breaker (｡•̀ᴗ-)✧
 
 ---
 
